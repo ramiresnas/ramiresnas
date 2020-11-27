@@ -11,7 +11,8 @@ canal é bem ativo e quase que diariamente é possível aprender coisa nova ou a
   - Melhorar meu inglês constantemente. 
 
 ## Tecnologias
- `Foudation`, `UIKit`, `UserNotifications`, `CoreLocation`, `CoreData`, `CloudKit`, `MapKit`, `CoreBluetooth`, `Contacts`, `Contacts UI`, `LocalAuthentication`
+ `Foudation`, `UIKit`, `UserNotifications`, `CoreLocation`, `CoreData`, `CloudKit`, `MapKit`, `CoreBluetooth`, `Contacts`, `Contacts UI`, `LocalAuthentication`,
+ `RxSwift`
  
 ## Formação 
 - Engenharia de Telecomunicações [IFCE](https://ifce.edu.br/) 2015.1/2021.1 [TCC](https://drive.google.com/file/d/1Voi0pDOpuH6KVbrG2UUBSfFKaXAwk7AY/view)
