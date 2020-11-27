@@ -20,7 +20,7 @@ canal é bem ativo e quase que diariamente é possível aprender coisa nova ou a
 
 ## Principais Projetos.
 
-- [Agente de Campo](https://apps.apple.com/br/app/agente-de-campo/id1513040092)] - Um projeto com grande impacto social, o `Agente de Campo` é uma ferramenta que entrega na mão do policial dados em tempo real. 
+- [Agente de Campo](https://apps.apple.com/br/app/agente-de-campo/id1513040092) - Um projeto com grande impacto social, o `Agente de Campo` é uma ferramenta que entrega na mão do policial dados em tempo real. 
 O projeto é uma parceria com Secretaria de Segurança e passará a auxiliar agentes das polícias Civil e Militar durante rondas e missões de campo. `Swift`, `UIKit`, `CoreLocation`, `CoreData`, `MapKit`, 
 `LocalAuthentication`, `UserNotifications`.
 ![captura de tela agente de campo](agente.png)
